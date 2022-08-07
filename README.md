@@ -27,5 +27,5 @@ La partie évaluation de notre travail utilise l'évaluateur Kaggle. L'évaluati
 nos modèles. Nos simulations ont montré que RoBERTa atteint des meilleurs performances que BERT. En effet, la précision (accuracy) de 83% et dont l'aire
 sous la courbe ROC (AUC) est de 89% contre une précision de 57% et une AUC de 68% pour le modèle BERT.
 
-[AUC BERT](https://github.com/HoudCa/NLP_Disaster_Tweet/blob/main/Images/AUC_Bert.png)
-[AUC RoBERTa](https://github.com/HoudCa/NLP_Disaster_Tweet/blob/main/Images/AUC_Roberta.png)
+![AUC BERT](https://github.com/HoudCa/NLP_Disaster_Tweet/blob/main/Images/AUC_Bert.png)
+![AUC RoBERTa](https://github.com/HoudCa/NLP_Disaster_Tweet/blob/main/Images/AUC_Roberta.png)
